@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+
+    <string name="txtTitulo">Calculadora (IMC)</string>
+    <string name="txtPeso">Peso: </string>
+    <string name="txtAltura">Altura: </string>
+    <string name="btnCalcular">CALCULAR</string>
+    <string name="btnReferencia">Valores de referência</string>
+    <string name="txtResultado">Seu resultado aqui</string>
+
+    <string name="txtMuitoAbaixoPeso">Muito abaixo do peso</string>
+    <string name="txtAbaixoPeso">Abaixo do peso</string>
+    <string name="txtPesoNormal">Peso Normal</string>
+    <string name="txtAcimaPeso">Acima do peso</string>
+    <string name="txtObesidadeI">Obesidade I</string>
+    <string name="txtObesidadeII">Obesidade II (severa)</string>
+    <string name="txtObesidadeIII">Obesidade III (morbida)</string>
+
+    <string name="txtExemploKg1">KG</string>
+    <string name="txtExemploKg2">ex: 73.5</string>
+
+    <string name="txtExemploM1">M</string>
+    <string name="txtExemploM2">ex: 1.80</string>
+    <string name="title_activity_lista_de_referencia">Lista de Referências</string>
+
+    <string-array name="arrayReferencias">
+        <item>Abaixo de 17 \nMuito abaixo do peso\n</item>
+        <item>Entre 17 e 18.49 \nAbaixo do peso\n</item>
+        <item>Entre 18.5 e 24.99 \nPeso normal\n</item>
+        <item>Entre 25 e 29.99 \nAcima do peso\n</item>
+        <item>Entre 30 e 34.99 \nObesidade I\n</item>
+        <item>Entre 35 e 29.99 \nObesidade II (severa)\n</item>
+        <item>Acima de 40 \nObesidade III (mórbida)\n</item>
+    </string-array>
+</resources>

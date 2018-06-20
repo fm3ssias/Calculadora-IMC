@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculatorIMC</string>
+
+    <string name="txtTitulo">Calculator (IMC)</string>
+    <string name="txtPeso">Weight: </string>
+    <string name="txtAltura">Height: </string>
+    <string name="btnCalcular">CALCULATE</string>
+    <string name="btnReferencia">Values of reference</string>
+    <string name="txtResultado">Your result here</string>
+
+    <string name="txtMuitoAbaixoPeso">Very underweight</string>
+    <string name="txtAbaixoPeso">Under weight</string>
+    <string name="txtPesoNormal">Normal weight</string>
+    <string name="txtAcimaPeso">Overweight</string>
+    <string name="txtObesidadeI">Obesity I</string>
+    <string name="txtObesidadeII">Obesity II (severe)</string>
+    <string name="txtObesidadeIII">Obesity III (morbid)</string>
+
+    <string name="txtExemploKg1">KG</string>
+    <string name="txtExemploKg2">ex: 73.5</string>
+
+    <string name="txtExemploM1">M</string>
+    <string name="txtExemploM2">ex: 1.80</string>
+    <string name="title_activity_lista_de_referencia">List of References</string>
+
+    <string-array name="arrayReferencias">
+        <item>Below 17 \nVery underweight\n</item>
+        <item>Between 17 and 18.49 \nUnder the weight\n</item>
+        <item>Entre 18.5 e 24.99 \nPeso normal\n</item>
+        <item>Between 18.5 and 24.99 Normal weight\n</item>
+        <item>Between 30 and 34.99 \nObesity I\n</item>
+        <item>Between 35 and 29.99 \nObesity II (severa)\n</item>
+        <item>Above 40 \nObesity III (mórbida)\n</item>
+    </string-array>
+
+</resources>
